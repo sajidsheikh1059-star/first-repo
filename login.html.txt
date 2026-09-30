@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<html>
+   <head>
+    
+   </head>
+   <body>
+     <form>
+        <lable for="KID">KID:</lable>
+        <input type="text" placeholder="Enter KID">
+        <lable for="password">Password:</lable>
+        <input type="Password" placeholder="Enter password">
+        <button>Submit!</button>
+     </form>
+   </body>
+</html>
